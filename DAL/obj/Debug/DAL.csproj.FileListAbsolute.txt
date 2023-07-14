@@ -1,0 +1,9 @@
+E:\winform\btlQLnhaHang\DAL\bin\Debug\DAL.dll
+E:\winform\btlQLnhaHang\DAL\bin\Debug\DAL.pdb
+E:\winform\btlQLnhaHang\DAL\bin\Debug\DTO.dll
+E:\winform\btlQLnhaHang\DAL\bin\Debug\DTO.pdb
+E:\winform\btlQLnhaHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\winform\btlQLnhaHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\winform\btlQLnhaHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\winform\btlQLnhaHang\DAL\obj\Debug\DAL.dll
+E:\winform\btlQLnhaHang\DAL\obj\Debug\DAL.pdb
